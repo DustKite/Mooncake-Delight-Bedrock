@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mooncake_delight:oiled_knife"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "mooncake_delight:oiled_knife",
+      "count": 1
+    },
+    "pattern": [
+      " B ",
+      "BAB",
+      " B "
+    ],
+    "key": {
+      "A": {
+        "tag": "farmersdelight:is_knife"
+      },
+      "B": {
+        "item": "mooncake_delight:tallow"
+      }
+    }
+  }
+}

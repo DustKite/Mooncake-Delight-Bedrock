@@ -1,0 +1,100 @@
+{
+   "format_version": "1.21.90",
+   "minecraft:crafting_items_catalog": {
+      "categories": [
+         {
+            "category_name": "equipment",
+            "groups": [
+               {
+                  "group_identifier": {
+                     "icon": "mooncake_delight:double_yolk_lotus_mooncake",
+                     "name": "mooncake_delight:itemGroup.name.mooncake"
+                  },
+                  "items": [
+                     "mooncake_delight:apple_mooncake",
+                     "mooncake_delight:golden_apple_mooncake",
+                     "mooncake_delight:enchanted_golden_apple_mooncake",
+                     "mooncake_delight:sweet_berries_mooncake",
+                     "mooncake_delight:glow_berries_mooncake",
+                     "mooncake_delight:chorus_fruit_mooncake",
+                     "mooncake_delight:carrot_mooncake",
+                     "mooncake_delight:potato_mooncake",
+                     "mooncake_delight:beef_mooncake",
+                     "mooncake_delight:porkchop_mooncake",
+                     "mooncake_delight:mutton_mooncake",
+                     "mooncake_delight:chicken_mooncake",
+                     "mooncake_delight:rabbit_mooncake",
+                     "mooncake_delight:cod_mooncake",
+                     "mooncake_delight:salmon_mooncake",
+                     "mooncake_delight:rotten_flesh_mooncake",
+                     "mooncake_delight:honey_mooncake",
+                     "mooncake_delight:coffee_mooncake",
+                     "mooncake_delight:snow_skin_mooncake",
+                     "mooncake_delight:lava_egg_custard_mooncake",
+                     "mooncake_delight:lava_double_egg_custard_mooncake",
+                     "mooncake_delight:black_truffle_mooncake",
+                     "mooncake_delight:hundred_fruits_mooncake",
+                     "mooncake_delight:edible_flower_mooncake",
+                     "mooncake_delight:rose_mooncake",
+                     "mooncake_delight:chrysanthemum_mooncake",
+                     "mooncake_delight:cake_mooncake",
+                     "mooncake_delight:rice_mooncake",
+                     "mooncake_delight:lotus_seed_paste_mooncake",
+                     "mooncake_delight:double_yolk_lotus_mooncake",
+                     "mooncake_delight:pork_mooncake",
+                     "mooncake_delight:egg_yolk_mooncake",
+                     "mooncake_delight:salted_egg_yolk-pork_mooncake",
+                     "mooncake_delight:ham_mooncake",
+                     "mooncake_delight:yunnan_ham_mooncake",
+                     "mooncake_delight:pumpkin_mooncake",
+                     "mooncake_delight:pork-cabbage_mooncake",
+                     "mooncake_delight:beef-tomato_mooncake",
+                     "mooncake_delight:chicken-pumpkin_mooncake",
+                     "mooncake_delight:ham-cabbage_mooncake",
+                     "mooncake_delight:seafood_mooncake",
+                     "mooncake_delight:three_delicacies_mooncake",
+                     "mooncake_delight:family_feasts_mooncake",
+                     "mooncake_delight:double_meat_mooncake",
+                     "mooncake_delight:triple_meat_mooncake",
+                     "mooncake_delight:ham-bacon_mooncake",
+                     "mooncake_delight:jinhua_ham_mooncake",
+                     "mooncake_delight:bacon-onion_mooncake",
+                     "mooncake_delight:black_sesame_paste_mooncake",
+                     "mooncake_delight:black_sesame_lava_mooncake",
+                     "mooncake_delight:black_sesame_soy_milk_mooncake",
+                     "mooncake_delight:white_sesame_paste_mooncake",
+                     "mooncake_delight:sesame_egg_yolk_mooncake",
+                     "mooncake_delight:sesame-ham_mooncake",
+                     "mooncake_delight:sesame-beef_mooncake",
+                     "mooncake_delight:sesame-bacon_mooncake",
+                     "mooncake_delight:sesame-onion_mooncake",
+                     "mooncake_delight:sesame-tomato_mooncake",
+                     "mooncake_delight:sesame-chicken_mooncake",
+                     "mooncake_delight:sesame-mutton_mooncake"
+                  ]
+               },
+               {
+                  "group_identifier": {
+                     "icon": "mooncake_delight:flour",
+                     "name": "mooncake_delight:itemGroup.name.ingredients"
+                  },
+                  "items": [
+                     "mooncake_delight:invert_sugar_syrup_bottle",
+                     "mooncake_delight:animal_fat",
+                     "mooncake_delight:mooncake_mold",
+                     "mooncake_delight:truffle",
+                     "mooncake_delight:tallow",
+                     "mooncake_delight:tallow_crumbs",
+                     "mooncake_delight:lotus_seed",
+                     "mooncake_delight:flour",
+                     "mooncake_delight:mooncake_crust_dough",
+                     "mooncake_delight:snow_skin_mooncake_crust_dough",
+                     "mooncake_delight:white_sesame",
+                     "mooncake_delight:black_sesame"
+                  ]
+               }
+            ]
+         }
+      ]
+   }
+}

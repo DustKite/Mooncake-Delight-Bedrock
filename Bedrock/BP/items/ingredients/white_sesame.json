@@ -1,0 +1,38 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "mooncake_delight:white_sesame",
+            "menu_category": {
+                "category": "equipment",
+                "group": "mooncake_delight:itemGroup.name.ingredients"
+            }
+        },
+        "components": {
+            "minecraft:icon": {
+                "textures": {
+                    "default": "mooncake_delight:white_sesame"
+                }
+            },
+            "minecraft:tags": {
+                "tags": [
+                    "farmersdelight:is_white_sesame",
+                    "farmersdelight:is_sesame"
+                ]
+            },
+            "minecraft:food": {
+                "can_always_eat": false,
+                "nutrition": 2,
+                "saturation_modifier": 0.2
+            },
+            "minecraft:use_animation": "eat",
+            "minecraft:use_modifiers": {
+                "use_duration": 1.6,
+                "movement_modifier": 0.4
+            },
+            "minecraft:block_placer": {
+                "block": "mooncake_delight:sesame_crop"
+            }
+        }
+    }
+}

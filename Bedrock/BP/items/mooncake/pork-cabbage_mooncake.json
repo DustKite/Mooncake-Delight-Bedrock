@@ -1,0 +1,29 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "mooncake_delight:pork-cabbage_mooncake",
+            "menu_category": {
+                "category": "equipment",
+                "group": "mooncake_delight:itemGroup.name.mooncake"
+            }
+        },
+        "components": {
+            "minecraft:icon": {
+                "textures": {
+                    "default": "mooncake_delight:pork-cabbage_mooncake"
+                }
+            },
+            "minecraft:food": {
+                "can_always_eat": true,
+                "nutrition": 14,
+                "saturation_modifier": 0.5
+            },
+            "minecraft:use_animation": "eat",
+            "minecraft:use_modifiers": {
+                "use_duration": 1.6,
+                "movement_modifier": 0.4
+            }
+        }
+    }
+}

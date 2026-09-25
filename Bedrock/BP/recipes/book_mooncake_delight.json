@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mooncake_delight:book_mooncake_delight"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AB"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:book"
+      },
+      "B": {
+        "item": "mooncake_delight:mooncake_mold"
+      }
+    },
+    "result": [
+      {
+        "item": "mooncake_delight:book_mooncake_delight",
+        "count": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "76fc2f9f-58f4-4974-b12e-8d48d78a8fd8",
+    "version": [
+      5,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      26,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "a99b74db-961e-4dc7-89bc-62e71ca8ae1e",
+      "version": [
+        5,
+        0,
+        1
+      ]
+    },
+    {
+      "description": "Mooncake Delight Scripts",
+      "type": "script",
+      "language": "javascript",
+      "uuid": "2c6b45ae-b618-40d7-a227-8aab1e144e7e",
+      "version": [
+        5,
+        0,
+        1
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Dust_Kite/Elaikes"
+    ],
+    "license": "Assets License (CC BY 4.0)-Code License (GPLv3)",
+    "product_type": "addon"
+  },
+  "dependencies": [
+    {
+      "uuid": "e497c201-3b7b-4350-87c9-c71832f67d08",
+      "version": [
+        5,
+        0,
+        1
+      ]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.0.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "2.0.0"
+    }
+  ]
+}

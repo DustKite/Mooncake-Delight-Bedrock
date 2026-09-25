@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "mooncake_delight:tallow_crumbs"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "mooncake_delight:tallow_crumbs",
+      "count": 9
+    },
+    "ingredients": [
+      {
+        "item": "mooncake_delight:tallow"
+      }
+    ]
+  }
+}

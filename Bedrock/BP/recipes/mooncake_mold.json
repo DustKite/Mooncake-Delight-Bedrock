@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mooncake_delight:mooncake_mold"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "mooncake_delight:mooncake_mold",
+      "count": 1
+    },
+    "pattern": [
+      " CA",
+      " CC",
+      "B  "
+    ],
+    "key": {
+      "A": {
+        "tag": "farmersdelight:flour"
+      },
+      "B": {
+        "item": "minecraft:stick"
+      },
+      "C": {
+        "tag": "minecraft:planks"
+      }
+    }
+  }
+}

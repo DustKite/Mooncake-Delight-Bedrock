@@ -1,0 +1,252 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "mooncake_delight:animal_fat": {
+      "textures": "textures/items/mooncake_delight/animal_fat"
+    },
+    "mooncake_delight:black_sesame": {
+      "textures": "textures/items/mooncake_delight/black_sesame"
+    },
+    "mooncake_delight:flour": {
+      "textures": "textures/items/mooncake_delight/flour"
+    },
+    "mooncake_delight:invert_sugar_syrup_bottle": {
+      "textures": "textures/items/mooncake_delight/invert_sugar_syrup_bottle"
+    },
+    "mooncake_delight:invert_sugar_syrup_bucket": {
+      "textures": "textures/items/mooncake_delight/invert_sugar_syrup_bucket"
+    },
+    "mooncake_delight:lotus_seed": {
+      "textures": "textures/items/mooncake_delight/lotus_seed"
+    },
+    "mooncake_delight:maple_syrup_bottle": {
+      "textures": "textures/items/mooncake_delight/maple_syrup_bottle"
+    },
+    "mooncake_delight:maple_syrup_bucket": {
+      "textures": "textures/items/mooncake_delight/maple_syrup_bucket"
+    },
+    "mooncake_delight:mooncake_crust_dough": {
+      "textures": "textures/items/mooncake_delight/mooncake_crust_dough"
+    },
+    "mooncake_delight:mooncake_mold": {
+      "textures": "textures/items/mooncake_delight/mooncake_mold"
+    },
+    "mooncake_delight:oiled_knife": {
+      "textures": "textures/items/mooncake_delight/oiled_knife"
+    },
+    "mooncake_delight:pinecone": {
+      "textures": "textures/items/mooncake_delight/pinecone"
+    },
+    "mooncake_delight:snow_skin_mooncake_crust_dough": {
+      "textures": "textures/items/mooncake_delight/snow_skin_mooncake_crust_dough"
+    },
+    "mooncake_delight:sugar_cube": {
+      "textures": "textures/items/mooncake_delight/sugar_cube"
+    },
+    "mooncake_delight:tallow": {
+      "textures": "textures/items/mooncake_delight/tallow"
+    },
+    "mooncake_delight:tallow_crumbs": {
+      "textures": "textures/items/mooncake_delight/tallow_crumbs"
+    },
+    "mooncake_delight:truffle": {
+      "textures": "textures/items/mooncake_delight/truffle"
+    },
+    "mooncake_delight:white_sesame": {
+      "textures": "textures/items/mooncake_delight/white_sesame"
+    },
+    "mooncake_delight:apple_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/apple_mooncake"
+    },
+    "mooncake_delight:bacon-onion_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/bacon-onion_mooncake"
+    },
+    "mooncake_delight:beef-tomato_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/beef-tomato_mooncake"
+    },
+    "mooncake_delight:beef_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/beef_mooncake"
+    },
+    "mooncake_delight:black_sesame_lava_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/black_sesame_lava_mooncake"
+    },
+    "mooncake_delight:black_sesame_paste_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/black_sesame_paste_mooncake"
+    },
+    "mooncake_delight:black_sesame_soy_milk_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/black_sesame_soy_milk_mooncake"
+    },
+    "mooncake_delight:black_truffle_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/black_truffle_mooncake"
+    },
+    "mooncake_delight:cake_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/cake_mooncake"
+    },
+    "mooncake_delight:carrot_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/carrot_mooncake"
+    },
+    "mooncake_delight:chicken-pumpkin_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/chicken-pumpkin_mooncake"
+    },
+    "mooncake_delight:chicken_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/chicken_mooncake"
+    },
+    "mooncake_delight:chorus_fruit_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/chorus_fruit_mooncake"
+    },
+    "mooncake_delight:chrysanthemum_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/chrysanthemum_mooncake"
+    },
+    "mooncake_delight:cod_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/cod_mooncake"
+    },
+    "mooncake_delight:coffee_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/coffee_mooncake"
+    },
+    "mooncake_delight:double_meat_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/double_meat_mooncake"
+    },
+    "mooncake_delight:double_yolk_lotus_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/double_yolk_lotus_mooncake"
+    },
+    "mooncake_delight:edible_flower_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/edible_flower_mooncake"
+    },
+    "mooncake_delight:egg_yolk_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/egg_yolk_mooncake"
+    },
+    "mooncake_delight:family_feasts_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/family_feasts_mooncake"
+    },
+    "mooncake_delight:glow_berries_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/glow_berries_mooncake"
+    },
+    "mooncake_delight:golden_apple_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/golden_apple_mooncake"
+    },
+    "mooncake_delight:ham-bacon_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/ham-bacon_mooncake"
+    },
+    "mooncake_delight:ham-cabbage_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/ham-cabbage_mooncake"
+    },
+    "mooncake_delight:ham_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/ham_mooncake"
+    },
+    "mooncake_delight:honey_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/honey_mooncake"
+    },
+    "mooncake_delight:hundred_fruits_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/hundred_fruits_mooncake"
+    },
+    "mooncake_delight:jinhua_ham_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/jinhua_ham_mooncake"
+    },
+    "mooncake_delight:lava_double_egg_custard_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/lava_double_egg_custard_mooncake"
+    },
+    "mooncake_delight:lava_egg_custard_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/lava_egg_custard_mooncake"
+    },
+    "mooncake_delight:lotus_seed_paste_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/lotus_seed_paste_mooncake"
+    },
+    "mooncake_delight:mutton_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/mutton_mooncake"
+    },
+    "mooncake_delight:pork-cabbage_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/pork-cabbage_mooncake"
+    },
+    "mooncake_delight:porkchop_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/porkchop_mooncake"
+    },
+    "mooncake_delight:pork_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/pork_mooncake"
+    },
+    "mooncake_delight:potato_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/potato_mooncake"
+    },
+    "mooncake_delight:pumpkin_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/pumpkin_mooncake"
+    },
+    "mooncake_delight:rabbit_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/rabbit_mooncake"
+    },
+    "mooncake_delight:rice_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/rice_mooncake"
+    },
+    "mooncake_delight:rose_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/rose_mooncake"
+    },
+    "mooncake_delight:rotten_flesh_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/rotten_flesh_mooncake"
+    },
+    "mooncake_delight:salmon_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/salmon_mooncake"
+    },
+    "mooncake_delight:salted_egg_yolk-pork_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/salted_egg_yolk-pork_mooncake"
+    },
+    "mooncake_delight:seafood_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/seafood_mooncake"
+    },
+    "mooncake_delight:sesame-bacon_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/sesame-bacon_mooncake"
+    },
+    "mooncake_delight:sesame-beef_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/sesame-beef_mooncake"
+    },
+    "mooncake_delight:sesame-chicken_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/sesame-chicken_mooncake"
+    },
+    "mooncake_delight:sesame-ham_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/sesame-ham_mooncake"
+    },
+    "mooncake_delight:sesame-mutton_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/sesame-mutton_mooncake"
+    },
+    "mooncake_delight:sesame-onion_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/sesame-onion_mooncake"
+    },
+    "mooncake_delight:sesame-tomato_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/sesame-tomato_mooncake"
+    },
+    "mooncake_delight:sesame_egg_yolk_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/sesame_egg_yolk_mooncake"
+    },
+    "mooncake_delight:snow_skin_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/snow_skin_mooncake"
+    },
+    "mooncake_delight:sweet_berries_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/sweet_berries_mooncake"
+    },
+    "mooncake_delight:three_delicacies_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/three_delicacies_mooncake"
+    },
+    "mooncake_delight:triple_meat_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/triple_meat_mooncake"
+    },
+    "mooncake_delight:white_sesame_paste_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/white_sesame_paste_mooncake"
+    },
+    "mooncake_delight:yunnan_ham_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/yunnan_ham_mooncake"
+    },
+    "mooncake_delight:bedrock_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/special_easter_egg/bedrock_mooncake"
+    },
+    "mooncake_delight:debris_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/special_easter_egg/debris_mooncake"
+    },
+    "mooncake_delight:lava_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/special_easter_egg/lava_mooncake"
+    },
+    "mooncake_delight:tnt_mooncake": {
+      "textures": "textures/items/mooncake_delight/food/special_easter_egg/tnt_mooncake"
+    },
+    "mooncake_delight:book_mooncake_delight": {
+      "textures": "textures/items/mooncake_delight/book_mooncake_delight"
+    }
+  }
+}

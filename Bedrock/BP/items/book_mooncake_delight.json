@@ -1,0 +1,24 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:item": {
+    "components": {
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:bookshelf_books"
+        ]
+      },
+      "minecraft:icon": {
+        "textures": {
+          "default": "mooncake_delight:book_mooncake_delight"
+        }
+      }
+    },
+    "description": {
+      "identifier": "mooncake_delight:book_mooncake_delight",
+      "menu_category": {
+        "category": "items",
+        "group": "farmersdelight:itemGroup.name.miscItem"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mooncake_delight:tallow"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "mooncake_delight:tallow",
+      "count": 1
+    },
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "mooncake_delight:tallow_crumbs"
+      }
+    }
+  }
+}

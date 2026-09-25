@@ -1,0 +1,30 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "mooncake_delight:snow_skin_mooncake_crust_dough",
+            "menu_category": {
+                "category": "equipment",
+                "group": "mooncake_delight:itemGroup.name.ingredients"
+            }
+        },
+        "components": {
+            "minecraft:icon": {
+                "textures": {
+                    "default": "mooncake_delight:snow_skin_mooncake_crust_dough"
+                }
+            },
+            "farmersdelight:remainder": "mooncake_delight:mooncake_mold",
+            "minecraft:food": {
+                "can_always_eat": true,
+                "nutrition": 2,
+                "saturation_modifier": 0.2
+            },
+            "minecraft:use_animation": "eat",
+            "minecraft:use_modifiers": {
+                "use_duration": 1.6,
+                "movement_modifier": 0.4
+            }
+        }
+    }
+}

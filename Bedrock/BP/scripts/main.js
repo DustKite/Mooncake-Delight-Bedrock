@@ -1,0 +1,10 @@
+import { RecipeRegister } from "./register/RecipeRegister";
+import { FoodRegister } from "./register/FoodRegister";
+import { LootingRegister } from "./register/LootingRegister";
+import { PlantLootRegister } from "./register/PlantLootRegister";
+import { BookRegister } from "./register/BookRegister";
+new BookRegister();
+new PlantLootRegister();
+new LootingRegister();
+new FoodRegister();
+new RecipeRegister();

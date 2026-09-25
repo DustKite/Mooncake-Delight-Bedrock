@@ -1,0 +1,19 @@
+{
+  "texture_data": {
+    "mooncake_delight:sesame_crop_stage0": {
+      "textures": "textures/blocks/mooncake_delight/sesame_crop_stage0"
+    },
+    "mooncake_delight:sesame_crop_stage1": {
+      "textures": "textures/blocks/mooncake_delight/sesame_crop_stage1"
+    },
+    "mooncake_delight:sesame_crop_stage2": {
+      "textures": "textures/blocks/mooncake_delight/sesame_crop_stage2"
+    },
+    "mooncake_delight:sesame_crop_stage3": {
+      "textures": "textures/blocks/mooncake_delight/sesame_crop_stage3"
+    },
+    "mooncake_delight:sesame_crop_stage4": {
+      "textures": "textures/blocks/mooncake_delight/sesame_crop_stage4"
+    }
+  }
+}
