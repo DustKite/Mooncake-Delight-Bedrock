@@ -7,7 +7,7 @@
     "version": [
       5,
       0,
-      1
+      2
     ],
     "min_engine_version": [
       1,
@@ -22,7 +22,7 @@
       "version": [
         5,
         0,
-        1
+        2
       ]
     },
     {
@@ -33,7 +33,7 @@
       "version": [
         5,
         0,
-        1
+        2
       ],
       "entry": "scripts/main.js"
     }
@@ -42,7 +42,7 @@
     "authors": [
       "Dust_Kite/Elaikes"
     ],
-    "license": "Assets License (CC BY 4.0)-Code License (GPLv3)",
+    "license": "https://github.com/DustKite/Mooncake-Delight-Bedrock?tab=License-1-ov-file",
     "product_type": "addon"
   },
   "dependencies": [
@@ -51,7 +51,7 @@
       "version": [
         5,
         0,
-        1
+        2
       ]
     },
     {

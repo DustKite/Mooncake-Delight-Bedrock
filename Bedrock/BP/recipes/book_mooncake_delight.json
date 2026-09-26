@@ -8,14 +8,18 @@
       "crafting_table"
     ],
     "pattern": [
-      "AB"
+      "AB",
+      "C"
     ],
     "key": {
       "A": {
         "item": "minecraft:book"
       },
       "B": {
-        "item": "mooncake_delight:mooncake_mold"
+        "tag": "minecraft:egg"
+      },
+      "C": {
+        "item": "minecraft:sugar"
       }
     },
     "result": [
